@@ -6,12 +6,12 @@ This is the frontend application for the Crud Operations, built with **React 18*
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/RanahFehmeed/crud-assignment-app.git
     ```
 
 2. Navigate to the frontend directory:
     ```bash
-    cd Product_ManagementSystem
+    cd crud-assignment-app
     ```
 
 3. Install dependencies:
